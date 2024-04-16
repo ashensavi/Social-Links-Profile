@@ -88,4 +88,6 @@
     text-decoration: none;
     color: black;
     cursor: pointer;
+    transition: color 0.5s ease-in-out;
+    transition: background-color 0.5s ease-in-out;
 }
