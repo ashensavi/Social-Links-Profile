@@ -55,9 +55,8 @@
     margin-bottom:100px; */
 }
 
-.social-link-component-top .location {
-    margin-top: -8px;
-    margin-bottom: 8px;
+.social-link-component-top h5 {
+    margin-top: 4px;
     color: hsl(75, 94%, 57%);
 
 }
