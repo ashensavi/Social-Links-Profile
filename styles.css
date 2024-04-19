@@ -33,7 +33,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    line-height: 0;
+    
 }
 
 .social-link-component-bottom {
@@ -43,6 +43,7 @@
     justify-content: space-around;
     align-items: center;
     padding-bottom: 15px;
+    
     
 }
 
@@ -54,8 +55,9 @@
     margin-bottom:100px; */
 }
 
-.social-link-component-top h5 {
-    margin-top: 4px;
+.social-link-component-top .location {
+    margin-top: -8px;
+    margin-bottom: 8px;
     color: hsl(75, 94%, 57%);
 
 }
@@ -63,10 +65,12 @@
     font-size: 14px;
     color:white;
     margin-bottom: -8px;
+    
 }
 .social-link-component-top h2{
     color: white;
     font-weight: 400;
+    
 }
 .btn {
     -webkit-border-radius: 10;
@@ -90,4 +94,5 @@
     cursor: pointer;
     transition: color 0.5s ease-in-out;
     transition: background-color 0.5s ease-in-out;
+
 }
